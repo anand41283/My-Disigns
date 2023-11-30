@@ -1,0 +1,75 @@
+h2{
+    margin-top: 15px;
+    margin-left: 2%;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 10px;
+    
+}
+body{
+    background-color: rgb(219, 218, 218);
+}
+.boxbgcolor{
+    background-color: white;
+}
+.box1{
+    padding-top: 0px;
+    padding-bottom:0px;
+    margin-bottom: 40px;
+}
+h5{
+    
+    padding-left: 21%;
+}
+.cd13{
+    
+    padding-left:5%;
+}
+.cd17{
+    
+    padding-left:35%;
+}
+.cd27{
+    padding-left: 15%;
+}
+.cd23{
+    padding-left: 0%;
+}
+.cd24{
+    padding-left: 0%;
+}
+.cd25{
+    padding-left: 0%;
+    padding-right: 5%;
+}
+.cd26{
+    padding-left: 25%;
+}
+.footer{
+    margin-top: 400px;
+}
+.card:hover{
+    transform: scale(1.15);
+}
+.card:hover{
+    transition: all 0.3s;
+}
+.dimg:hover{
+    transform: scale(1.15);
+    transition: all 0.3s;
+
+}
+.Bookmyshow{
+    display: flex;
+    margin: auto;
+}
+.curvefooter{
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom:10px ;
+}
+.Bookmyshow:hover{
+    transform: scale(1.15);
+    transition: all 0.3s;
+
+}
+
